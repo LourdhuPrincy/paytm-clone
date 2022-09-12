@@ -10,4 +10,6 @@
 
 This is my first Tailwind project. It was interesting to search everything in Tailwind CSS and use them in our project. Now I know how to create webpage in tailwind css.
 
+[netlify link](https://paytm-clone-homepage.netlify.app/)
+
 
