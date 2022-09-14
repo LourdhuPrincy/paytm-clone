@@ -12,4 +12,6 @@ This is my first Tailwind project. It was interesting to search everything in Ta
 
 [netlify link](https://paytm-clone-homepage.netlify.app/)
 
+![screen shot](./assets/pay-cover.png)
+
 
